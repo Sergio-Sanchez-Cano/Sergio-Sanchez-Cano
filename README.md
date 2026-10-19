@@ -6,9 +6,9 @@
 
 ## 🚀 Sobre mí
 
-¡Buenas! 👋 Soy **Sergio Sánchez**, estudiante de segundo curso del **Grado Superior de Desarrollo de Aplicaciones Multiplataforma (DAM)**.
+¡Buenas! 👋 Soy **Sergio Sánchez**.
 
-Me apasiona el mundo de la programación, el desarrollo de videojuegos y la creación de modelos 3D. Disfruto convirtiendo ideas en proyectos reales, experimentando con nuevas tecnologías y superando retos que me permitan seguir creciendo como desarrollador.
+Me apasiona el mundo de la programación, el desarrollo de videojuegos. Disfruto convirtiendo ideas en proyectos reales, experimentando con nuevas tecnologías y superando retos que me permitan seguir creciendo como desarrollador.
 
 - 🎓 Actualmente estudiando **2.º de DAM**.
 - 🎮 Desarrollando mi propio **videojuego**.
